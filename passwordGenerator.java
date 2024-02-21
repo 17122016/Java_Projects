@@ -52,7 +52,7 @@ public class passwordGenerator {
 
     }
 
-// print the password 
+//  step 5 : print the password which store in array 
     public static void printpwd(String[] arr){
         for(int i =0; i<arr.length;i++){
             System.out.println(arr[i]);
